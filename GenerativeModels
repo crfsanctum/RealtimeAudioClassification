@@ -1,0 +1,10 @@
+Generative Models for Music
+
+GAN generative adverserial network
+VAE vanilla autoencoder
+Autoregressive (e.g. Wavenet)
+
+https://experiments.withgoogle.com/ai/sound-maker/view/
+https://avdnoord.github.io/homepage/vqvae/
+https://magenta.tensorflow.org/performance-rnn
+http://research.spa.aalto.fi/publications/papers/smc19-black-box/
